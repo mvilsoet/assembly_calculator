@@ -5,3 +5,5 @@ The following program is an implementation of a five-function calculator using a
 
 Suggested to run this code on an online LC-3 simulator since the language is ancient and irritating to run natively. 
 [Try this simulator on wchargin](https://wchargin.com/lc3web/ "LC-3 Simulator")
+
+Input should be provided in [Polish Math Notation](https://en.wikipedia.org/wiki/Polish_notation)
